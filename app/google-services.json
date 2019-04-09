@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "30547781814",
+    "firebase_url": "https://campus-recruitment-fbd26.firebaseio.com",
+    "project_id": "campus-recruitment-fbd26",
+    "storage_bucket": "campus-recruitment-fbd26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30547781814:android:f432b8f03c13a05f",
+        "android_client_info": {
+          "package_name": "com.example.campusrecruitment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30547781814-mgrkjhq9p5aof6foqgsv067odejd0l7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.campusrecruitment",
+            "certificate_hash": "8a9245079af4fd795a8910787da77752fc1bb5cc"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2WfWVJZTvIwzhEZKgEXfdvE_ujEUkX7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30547781814-e1rm17g365bcbm2usnfhlcda5vjhbmg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
